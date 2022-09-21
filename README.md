@@ -15,27 +15,8 @@
    </ul>
    
    ```sh
-   cd vichiti
+   cd osint
    npm i
    node index.js
    ```
   </p>
-  
-<h3 align="left">
-  <b>Linux / Termux</b>
-</h3>
-
-<p align="left">
-  
- ```sh
-    sudo apt-get update -y && sudo apt-get upgrade -y
-    sudo apt-get install nodejs -y
-    sudo apt-get install git -y
-    git clone https://github.com/umair9747/vichiti
-    cd vichiti
-    npm i
-    node index.js
-  ```
-</p>
-
-
